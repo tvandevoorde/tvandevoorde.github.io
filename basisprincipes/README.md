@@ -64,7 +64,7 @@ Doordat elektrische kringen hun energie behouden, is de hoeveelheid energie dat 
 
 `De som van de elektrische potentiaalverschillen (spanning), rekening houdend met de richting, in elke gesloten kring in een netwerk is gelijk aan nul.`
 
-![kirchoff-spanning](./kirchhoff-spanning.png)  
+![kirchoff-spanning](./Kirchhoff-spanning.png)  
 De spanning verdeelt zich in serie kringen. De som van de spanningen over elke component in de kring, gemeten in de richting van de klok, is altijd 0.
 
 ## AC en DC
