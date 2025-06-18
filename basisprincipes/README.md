@@ -55,7 +55,7 @@ Doordat elektrische kringen hun lading behouden, is de hoeveelheid lading dat de
 
 `In elk knooppunt van een elektrisch netwerk is de som van de stromen die in dat punt samenkomen gelijk aan de som van de stromen die vanuit dat punt vertrekken.`  
 
-![kirchoff-stroom](./kirchhoff-stroom.png)  
+![kirchoff-stroom](./Kirchhoff-stroom.png)  
 De stroom verdeelt zich in parallelle kringen. De stroom naar het knooppunt is positief, de stroom vanuit het knooppunt is negatief. De som van alle stromen naar een knoppunt in een kring is hierdoor altijd 0.  
 
 ### Spanningswet
